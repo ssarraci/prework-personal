@@ -1,4 +1,35 @@
-body {
-    background-color: blue;
+.intro {
     margin: auto;
+    width: 70%;
+    padding-bottom: 40px;
+    text-align: center;
+
+}
+
+
+
+.photoinfo {
+    float:left;
+    width: 25%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.photoinfo img {
+    height: 250px
+}
+
+.hyung {
+    margin-right: auto;
+    margin-left: auto;
+    width: 70%;
+    
+}
+
+.hyung p {
+    font-size: small;
+}
+
+h2 {
+    text-align: center;
 }
