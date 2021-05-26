@@ -3,10 +3,7 @@
     width: 70%;
     padding-bottom: 40px;
     text-align: center;
-
 }
-
-
 
 .photoinfo {
     float:left;
@@ -20,16 +17,33 @@
 }
 
 .hyung {
-    margin-right: auto;
-    margin-left: auto;
-    width: 70%;
-    
+    margin-left: 14%;
+    width: 80%;
 }
 
-.hyung p {
+#member-info {
+    text-align: left;
     font-size: small;
 }
 
 h2 {
     text-align: center;
+}
+
+.photoinfo2 {
+    float: left;
+    width: 30%;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.photoinfo2 img {
+    height: 250px;
+}
+
+.maknae {
+    margin-left: 15%;
+    width: 70%;
+    position: relative;
+    left: 100px;
 }
