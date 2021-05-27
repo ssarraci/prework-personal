@@ -2,7 +2,7 @@ function addingEventListener() {
     const input = document.getElementById('input');
 
 function clickAlert() {
-    alert(`I hope you enjoyed the introduction to BTS!`);
+    alert(`2! 3! Hello we are BTS!`);
 }
     
 input.addEventListener('click', clickAlert);
