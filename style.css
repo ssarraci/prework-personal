@@ -91,7 +91,14 @@ h2 {
     margin-left: 9%;
     width: 80%;
     padding: 20px;
+}
 
-   
+#quotes {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    width: 60%;
+    text-align: left;
+    padding: 20px;
+    margin-left: 30%;
 }
 
